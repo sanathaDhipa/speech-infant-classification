@@ -3,7 +3,6 @@ import numpy as np
 import tensorflow as tf
 from scipy.io import wavfile
 from st_audiorec import st_audiorec
-import extra_streamlit_components as stx
 import io, pathlib
 
 # Load the saved model
