@@ -1,0 +1,7 @@
+numpy==1.23.5
+scipy==1.10.1
+tensorflow==2.12.0
+streamlit==1.35.0
+pydub==0.25.1
+extra_streamlit_components
+st_audiorec
