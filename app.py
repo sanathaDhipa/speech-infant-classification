@@ -6,7 +6,7 @@ from st_audiorec import st_audiorec
 import io, pathlib
 
 # Load the saved model
-model = tf.keras.models.load_model('cry_classification_model.h5')
+model = tf.keras.models.load_model('cry_classification_model_scenario_1.h5')
 
 # Label names
 FILE_PATH = './donateacry_corpus'
